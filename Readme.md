@@ -2,7 +2,7 @@
 > 自用的, 喜欢的可以下载.
 
 
-[效果预览](./preview.png)
+![效果预览](./preview.png)
 
 
 ## conky 安装
